@@ -1,0 +1,14 @@
+* {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+#head {
+  font-size: 32px;
+}
+
+#cnv {
+  position: absolute;
+  top: 0vh;
+  left: 0vw;
+}
